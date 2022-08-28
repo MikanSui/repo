@@ -1,0 +1,12 @@
+{
+  "Author": "buttplug",
+  "Name": "buttplugin",
+  "InternalName": "Buttplugin",
+  "AssemblyVersion": "7.0.8275.18053",
+  "Description": "One time my squat plug ricocheted into someones head",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": "Squat plug?"
+}
