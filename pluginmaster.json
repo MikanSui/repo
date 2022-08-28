@@ -8,12 +8,12 @@
         "RepoUrl": "",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
-        "DownloadLinkInstall": "https://github.com/thesuccubus/repo/raw/master/plugins/Buttplugin/latest.zip",
+        "DownloadLinkInstall": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/thesuccubus/repo/raw/master/plugins/Buttplugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/thesuccubus/repo/raw/master/plugins/Buttplugin/latest.zip",
+        "DownloadLinkTesting": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/thesuccubus/repo/raw/main/plugins/Buttplugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1661681193"
+        "LastUpdated": "1661681238"
     }
 ]
